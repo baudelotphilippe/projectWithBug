@@ -1,6 +1,5 @@
 <?php
 
-echo helloworld bonjour
-;
+echo "helloworld bonjour";
 
 ?>

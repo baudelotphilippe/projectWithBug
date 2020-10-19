@@ -1,1 +1,2 @@
 # projectWithBug
+Fix the bug
